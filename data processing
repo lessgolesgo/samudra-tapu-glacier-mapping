@@ -1,1 +1,5 @@
+## Data Processing
+
+The SRTM 1 Arc-Second DEM was loaded in QGIS and visualized using a pseudocolor terrain renderer to inspect elevation gradients across the glacier basin.
+
 
